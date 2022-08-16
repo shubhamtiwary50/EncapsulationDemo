@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class EncapDemo {
+public class EncapDemo {
+    public static void main(String[] args) {
+
+    }
 }
